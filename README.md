@@ -14,4 +14,4 @@ Additional modules will be added for variance reduction, rejection sampling, and
 A Monte Carlo simulation of photons with a prescribed angular momentum, traversing through a medium
 ![Photon Trajectories](./fig/photon_trajectories.jpg)
 
-[P.S. This repository is not updated since 2023.]
+[P.S. This repository has not been updated since 2023]
