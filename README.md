@@ -13,3 +13,5 @@ Additional modules will be added for variance reduction, rejection sampling, and
 ### Photon Trajectories in 2D Grid
 A Monte Carlo simulation of photons with a prescribed angular momentum, traversing through a medium
 ![Photon Trajectories](./fig/photon_trajectories.jpg)
+
+[P.S. This repository is not updated since 2023.]
